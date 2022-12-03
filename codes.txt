@@ -1,0 +1,12 @@
+1. Power	IrSender.sendSamsung(0x707, 0xE6, <numberOfRepeats>);
+2. Volume +	IrSender.sendSamsung(0x707, 0x7, <numberOfRepeats>);	
+3. Volume -	IrSender.sendSamsung(0x707, 0xB, <numberOfRepeats>);	
+4. ^		IrSender.sendSamsung(0x707, 0x60, <numberOfRepeats>);	
+5. >		IrSender.sendSamsung(0x707, 0x62, <numberOfRepeats>);j	
+6. <		IrSender.sendSamsung(0x707, 0x65, <numberOfRepeats>);	
+7. v		IrSender.sendSamsung(0x707, 0x61, <numberOfRepeats>);	
+8. Input	IrSender.sendSamsung(0x707, 0x1, <numberOfRepeats>);
+9. Home		IrSender.sendSamsung(0x707, 0x79, <numberOfRepeats>);
+10. Guide	IrSender.sendSamsung(0x707, 0x4F, <numberOfRepeats>);	
+11. Return	IrSender.sendSamsung(0x707, 0x58, <numberOfRepeats>);	
+12. Exit	IrSender.sendSamsung(0x707, 0x2D, <numberOfRepeats>);	

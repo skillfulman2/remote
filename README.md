@@ -33,6 +33,8 @@ After I used this for a few days I ordered some protyping board and put the rest
 
 ![Soldered Circuit](https://lh3.googleusercontent.com/Z0telzRF7qclMfiXb3bu-QERJLBJvU3TTj6FrgNhJBcLCTByjYKKSQ5tLErp0EoWxfSMKpZMigiwhgVYWc9L1iAr6JE2LHl3_Wkoyy0g03m10c3YxB4R1WpTDsicSIJzDSnwMRGfzg=w2400)
 
-Here is a demo of the finished product:
+![Front View](https://lh3.googleusercontent.com/BA9j9Xgkq3a3lfacJiF4lzZvP9JlUSEYhcZwB-aJ4EKolE9DCZyrh-36ZDyrdVgtk7Bc96UjdKJsO9GW_Lyu3NemCL-D8y-S5eodeoyfLJvh_0er8JGNfJ4qjYSZ45k4gk8TYrZQOg=w2400)
 
-![](https://i.imgur.com/7alkVjS.gifv)
+A demo gif can be found [here](https://imgur.com/7alkVjS)
+
+

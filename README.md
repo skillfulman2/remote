@@ -35,6 +35,8 @@ After I used this for a few days I ordered some protyping board and put the rest
 
 ![Front View](https://lh3.googleusercontent.com/BA9j9Xgkq3a3lfacJiF4lzZvP9JlUSEYhcZwB-aJ4EKolE9DCZyrh-36ZDyrdVgtk7Bc96UjdKJsO9GW_Lyu3NemCL-D8y-S5eodeoyfLJvh_0er8JGNfJ4qjYSZ45k4gk8TYrZQOg=w2400)
 
+![](./demo.gif)
+
 A demo gif can be found [here](https://imgur.com/7alkVjS)
 
 
